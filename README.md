@@ -29,7 +29,7 @@ Clone or Download the repository.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/space-runner.git
+git clone https://github.com/Manikanta-palagani/space_runner.git
 cd space-runner
 Install Pygame (if not already installed).
 
